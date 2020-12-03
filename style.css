@@ -1,0 +1,42 @@
+
+body{
+    background-color: beige;
+}
+header{
+    background-color: tan;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 3rem;
+}
+h2{
+    text-align: center;
+}
+.intro{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+}
+.interests{
+    width: 80%;
+    margin: auto;
+    font-size: 1.5rem;
+}
+hr{
+    width: 80%;
+}
+
+.about{
+    width: 80%;
+    margin: auto;
+    font-size: 1.5rem;
+}
+
+.contact{
+    width: 80%;
+    margin: auto;
+    font-size: 1.25rem;
+}
