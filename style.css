@@ -30,6 +30,7 @@ img{
     width: 80%;
     margin: auto;
     font-size: 1.5rem;
+    text-align: left;
 }
 hr{
     width: 80%;
@@ -56,4 +57,9 @@ hr{
 }
 .contact a:visited{
     color: red;
+}
+
+.footer p{
+    font-size: 1.25rem;
+    text-align: right;
 }
