@@ -13,6 +13,12 @@ h1{
 h2{
     text-align: center;
 }
+img{
+    width: 25%;
+    height: 25%;
+    padding: 1%;
+    border: 2px black solid;
+}
 .intro{
     width: 80%;
     text-align: center;
@@ -39,4 +45,12 @@ hr{
     width: 80%;
     margin: auto;
     font-size: 1.25rem;
+}
+
+.contact a:hover{
+    color: cyan;
+    font-size: 1.5rem;
+}
+.contact a:visited{
+    color: red;
 }
