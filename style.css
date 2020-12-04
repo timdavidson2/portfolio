@@ -25,6 +25,7 @@ img{
     height: 25%;
     padding: 1%;
     border: 2px black solid;
+    margin-top: 10px;
 }
 .intro{
     width: 80%;
