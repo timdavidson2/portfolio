@@ -1,3 +1,6 @@
+*{
+    border: 1px solid grey;
+}
 
 body{
     background-color: beige;
@@ -6,12 +9,16 @@ header{
     background-color: tan;
 }
 h1{
+    letter-spacing: .5rem;
     text-align: center;
     font-family: cursive;
     font-size: 3rem;
 }
 h2{
     text-align: center;
+    width: 80%;
+    margin: auto;
+    font-size: 2rem;
 }
 img{
     width: 25%;
