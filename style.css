@@ -47,6 +47,9 @@ hr{
     font-size: 1.25rem;
 }
 
+.contact a:link{
+    color: darkblue;
+}
 .contact a:hover{
     color: cyan;
     font-size: 1.5rem;
